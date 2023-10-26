@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(106, 123, 138);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.circular-div{
+    border: 2px solid #fff;
+    padding: 50px;
+    margin: 0 10px;
+    border-radius: 50%;
+    font-size: 45px;
+    font-family: Verdana;
+    color: #fff;
+}
